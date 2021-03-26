@@ -1,2 +1,2 @@
-# Hillcypher-Encryption
-Simple Hillcypher Encryption Algorithm 
+# HillCipher-Encryption
+A Simple HillCipher Encryption Program written in C
